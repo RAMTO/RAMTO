@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Martin and I love coding, learning and teaching 🤓
+
+Passionate about decentralization & blockchain technology 💻
+
+Love spending time outdoors doing all kind of sports and reading books on my hammock 🏞
+
 <!--
 **RAMTO/RAMTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
