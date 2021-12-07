@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##  I am Martin and I love coding, learning and teaching 🤓
+##  My name is Martin and I love coding, learning and teaching 🤓
 
 Passionate about decentralization & blockchain technology 💻
 
