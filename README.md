@@ -6,6 +6,9 @@ Passionate about decentralization & blockchain technology 💻
 
 Love spending time outdoors doing all kind of sports and reading books on my hammock 🏞
 
+[![RAMTO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAMTO&show_icons=true&theme=vue-dark)](https://github.com/RAMTO/github-readme-stats)
+
+
 <!--
 **RAMTO/RAMTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
