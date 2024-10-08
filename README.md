@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/RAMTO)
-
 ##  My name is Martin and I love coding, learning and teaching 🤓
 
 Passionate about decentralization & blockchain technology 💻
